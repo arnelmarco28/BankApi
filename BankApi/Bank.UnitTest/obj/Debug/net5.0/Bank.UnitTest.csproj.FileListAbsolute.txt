@@ -1,0 +1,319 @@
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\xunit.runner.reporters.netcoreapp10.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\xunit.runner.utility.netcoreapp10.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Bank.UnitTest.deps.json
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Bank.UnitTest.runtimeconfig.json
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Bank.UnitTest.runtimeconfig.dev.json
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Bank.UnitTest.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ref\Bank.UnitTest.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Bank.UnitTest.pdb
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\AutoMapper.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Castle.Core.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\FluentAssertions.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\FluentValidation.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\MediatR.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\testhost.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\NSubstitute.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\xunit.abstractions.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\xunit.assert.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\xunit.core.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\xunit.execution.dotnet.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\BankApi.DAL.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\BankApi.Services.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\BankApi.Services.pdb
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\BankApi.DAL.pdb
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\obj\Debug\net5.0\Bank.UnitTest.csproj.AssemblyReference.cache
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\obj\Debug\net5.0\Bank.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\obj\Debug\net5.0\Bank.UnitTest.AssemblyInfoInputs.cache
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\obj\Debug\net5.0\Bank.UnitTest.AssemblyInfo.cs
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\obj\Debug\net5.0\Bank.UnitTest.csproj.CoreCompileInputs.cache
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\obj\Debug\net5.0\Bank.UnitTest.csproj.CopyComplete
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\obj\Debug\net5.0\Bank.UnitTest.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\obj\Debug\net5.0\ref\Bank.UnitTest.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\obj\Debug\net5.0\Bank.UnitTest.pdb
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\obj\Debug\net5.0\Bank.UnitTest.genruntimeconfig.cache
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\NLog.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\BankApi\BankApi\Bank.UnitTest\obj\Debug\net5.0\Bank.UnitTest.csproj.AssemblyReference.cache
+C:\BankApi\BankApi\Bank.UnitTest\obj\Debug\net5.0\Bank.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\BankApi\BankApi\Bank.UnitTest\obj\Debug\net5.0\Bank.UnitTest.AssemblyInfoInputs.cache
+C:\BankApi\BankApi\Bank.UnitTest\obj\Debug\net5.0\Bank.UnitTest.AssemblyInfo.cs
+C:\BankApi\BankApi\Bank.UnitTest\obj\Debug\net5.0\Bank.UnitTest.csproj.CoreCompileInputs.cache
+C:\BankApi\BankApi\Bank.UnitTest\obj\Debug\net5.0\Bank.UnitTest.dll
+C:\BankApi\BankApi\Bank.UnitTest\obj\Debug\net5.0\Bank.UnitTest.pdb
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\xunit.runner.reporters.netcoreapp10.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\xunit.runner.utility.netcoreapp10.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Bank.UnitTest.deps.json
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Bank.UnitTest.runtimeconfig.json
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Bank.UnitTest.runtimeconfig.dev.json
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Bank.UnitTest.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Bank.UnitTest.pdb
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\AutoMapper.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Castle.Core.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\FluentAssertions.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\FluentValidation.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\log4net.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\MediatR.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\testhost.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\NLog.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\NSubstitute.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\xunit.abstractions.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\xunit.assert.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\xunit.core.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\xunit.execution.dotnet.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\BankApi.DAL.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\BankApi.Services.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\BankApi.Services.pdb
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\BankApi.DAL.pdb
+C:\BankApi\BankApi\Bank.UnitTest\obj\Debug\net5.0\Bank.UnitTest.csproj.CopyComplete
+C:\BankApi\BankApi\Bank.UnitTest\obj\Debug\net5.0\Bank.UnitTest.genruntimeconfig.cache
+C:\BankApi\BankApi\Bank.UnitTest\obj\Debug\net5.0\ref\Bank.UnitTest.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\Humanizer.dll
+C:\BankApi\BankApi\Bank.UnitTest\bin\Debug\net5.0\ref\Bank.UnitTest.dll

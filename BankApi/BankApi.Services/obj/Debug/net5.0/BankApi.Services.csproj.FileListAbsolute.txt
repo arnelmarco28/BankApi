@@ -1,0 +1,30 @@
+C:\qless CQRS microservice architecture\BankApi\BankApi\BankApi.Services\bin\Debug\net5.0\BankApi.Services.deps.json
+C:\qless CQRS microservice architecture\BankApi\BankApi\BankApi.Services\bin\Debug\net5.0\BankApi.Services.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\BankApi.Services\bin\Debug\net5.0\ref\BankApi.Services.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\BankApi.Services\bin\Debug\net5.0\BankApi.Services.pdb
+C:\qless CQRS microservice architecture\BankApi\BankApi\BankApi.Services\bin\Debug\net5.0\BankApi.DAL.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\BankApi.Services\bin\Debug\net5.0\BankApi.DAL.pdb
+C:\qless CQRS microservice architecture\BankApi\BankApi\BankApi.Services\obj\Debug\net5.0\BankApi.Services.csproj.AssemblyReference.cache
+C:\qless CQRS microservice architecture\BankApi\BankApi\BankApi.Services\obj\Debug\net5.0\BankApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\qless CQRS microservice architecture\BankApi\BankApi\BankApi.Services\obj\Debug\net5.0\BankApi.Services.AssemblyInfoInputs.cache
+C:\qless CQRS microservice architecture\BankApi\BankApi\BankApi.Services\obj\Debug\net5.0\BankApi.Services.AssemblyInfo.cs
+C:\qless CQRS microservice architecture\BankApi\BankApi\BankApi.Services\obj\Debug\net5.0\BankApi.Services.csproj.CoreCompileInputs.cache
+C:\qless CQRS microservice architecture\BankApi\BankApi\BankApi.Services\obj\Debug\net5.0\BankApi.Services.csproj.CopyComplete
+C:\qless CQRS microservice architecture\BankApi\BankApi\BankApi.Services\obj\Debug\net5.0\BankApi.Services.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\BankApi.Services\obj\Debug\net5.0\ref\BankApi.Services.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\BankApi.Services\obj\Debug\net5.0\BankApi.Services.pdb
+C:\BankApi\BankApi\BankApi.Services\bin\Debug\net5.0\BankApi.Services.deps.json
+C:\BankApi\BankApi\BankApi.Services\bin\Debug\net5.0\BankApi.Services.dll
+C:\BankApi\BankApi\BankApi.Services\bin\Debug\net5.0\BankApi.Services.pdb
+C:\BankApi\BankApi\BankApi.Services\bin\Debug\net5.0\BankApi.DAL.dll
+C:\BankApi\BankApi\BankApi.Services\bin\Debug\net5.0\BankApi.DAL.pdb
+C:\BankApi\BankApi\BankApi.Services\obj\Debug\net5.0\BankApi.Services.csproj.AssemblyReference.cache
+C:\BankApi\BankApi\BankApi.Services\obj\Debug\net5.0\BankApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\BankApi\BankApi\BankApi.Services\obj\Debug\net5.0\BankApi.Services.AssemblyInfoInputs.cache
+C:\BankApi\BankApi\BankApi.Services\obj\Debug\net5.0\BankApi.Services.AssemblyInfo.cs
+C:\BankApi\BankApi\BankApi.Services\obj\Debug\net5.0\BankApi.Services.csproj.CoreCompileInputs.cache
+C:\BankApi\BankApi\BankApi.Services\obj\Debug\net5.0\BankApi.Services.csproj.CopyComplete
+C:\BankApi\BankApi\BankApi.Services\obj\Debug\net5.0\BankApi.Services.dll
+C:\BankApi\BankApi\BankApi.Services\obj\Debug\net5.0\BankApi.Services.pdb
+C:\BankApi\BankApi\BankApi.Services\obj\Debug\net5.0\ref\BankApi.Services.dll
+C:\BankApi\BankApi\BankApi.Services\bin\Debug\net5.0\ref\BankApi.Services.dll

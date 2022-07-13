@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = QlessApi.Services
+build_property.ProjectDir = C:\qless CQRS microservice architecture\BankApi\BankApi\QlessApi.Services\

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Qless.UnitTest
+build_property.ProjectDir = C:\qless CQRS microservice architecture\BankApi\BankApi\Qless.UnitTest\

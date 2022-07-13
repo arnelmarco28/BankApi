@@ -1,0 +1,30 @@
+C:\qless CQRS microservice architecture\BankApi\BankApi\BankApi.DAL\bin\Debug\net5.0\BankApi.DAL.deps.json
+C:\qless CQRS microservice architecture\BankApi\BankApi\BankApi.DAL\bin\Debug\net5.0\BankApi.DAL.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\BankApi.DAL\bin\Debug\net5.0\ref\BankApi.DAL.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\BankApi.DAL\bin\Debug\net5.0\BankApi.DAL.pdb
+C:\qless CQRS microservice architecture\BankApi\BankApi\BankApi.DAL\obj\Debug\net5.0\BankApi.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\qless CQRS microservice architecture\BankApi\BankApi\BankApi.DAL\obj\Debug\net5.0\BankApi.DAL.AssemblyInfoInputs.cache
+C:\qless CQRS microservice architecture\BankApi\BankApi\BankApi.DAL\obj\Debug\net5.0\BankApi.DAL.AssemblyInfo.cs
+C:\qless CQRS microservice architecture\BankApi\BankApi\BankApi.DAL\obj\Debug\net5.0\BankApi.DAL.csproj.CoreCompileInputs.cache
+C:\qless CQRS microservice architecture\BankApi\BankApi\BankApi.DAL\obj\Debug\net5.0\BankApi.DAL.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\BankApi.DAL\obj\Debug\net5.0\ref\BankApi.DAL.dll
+C:\qless CQRS microservice architecture\BankApi\BankApi\BankApi.DAL\obj\Debug\net5.0\BankApi.DAL.pdb
+C:\qless CQRS microservice architecture\BankApi\BankApi\BankApi.DAL\obj\Debug\net5.0\BankApi.DAL.csproj.AssemblyReference.cache
+C:\qless CQRS microservice architecture\BankApi\BankApi\BankApi.DAL\bin\Debug\net5.0\BankApi.DAL.runtimeconfig.json
+C:\qless CQRS microservice architecture\BankApi\BankApi\BankApi.DAL\bin\Debug\net5.0\BankApi.DAL.runtimeconfig.dev.json
+C:\qless CQRS microservice architecture\BankApi\BankApi\BankApi.DAL\obj\Debug\net5.0\BankApi.DAL.genruntimeconfig.cache
+C:\BankApi\BankApi\BankApi.DAL\bin\Debug\net5.0\BankApi.DAL.deps.json
+C:\BankApi\BankApi\BankApi.DAL\bin\Debug\net5.0\BankApi.DAL.runtimeconfig.json
+C:\BankApi\BankApi\BankApi.DAL\bin\Debug\net5.0\BankApi.DAL.runtimeconfig.dev.json
+C:\BankApi\BankApi\BankApi.DAL\bin\Debug\net5.0\BankApi.DAL.dll
+C:\BankApi\BankApi\BankApi.DAL\bin\Debug\net5.0\BankApi.DAL.pdb
+C:\BankApi\BankApi\BankApi.DAL\obj\Debug\net5.0\BankApi.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\BankApi\BankApi\BankApi.DAL\obj\Debug\net5.0\BankApi.DAL.AssemblyInfoInputs.cache
+C:\BankApi\BankApi\BankApi.DAL\obj\Debug\net5.0\BankApi.DAL.AssemblyInfo.cs
+C:\BankApi\BankApi\BankApi.DAL\obj\Debug\net5.0\BankApi.DAL.csproj.CoreCompileInputs.cache
+C:\BankApi\BankApi\BankApi.DAL\obj\Debug\net5.0\BankApi.DAL.dll
+C:\BankApi\BankApi\BankApi.DAL\obj\Debug\net5.0\BankApi.DAL.pdb
+C:\BankApi\BankApi\BankApi.DAL\obj\Debug\net5.0\BankApi.DAL.genruntimeconfig.cache
+C:\BankApi\BankApi\BankApi.DAL\obj\Debug\net5.0\ref\BankApi.DAL.dll
+C:\BankApi\BankApi\BankApi.DAL\bin\Debug\net5.0\ref\BankApi.DAL.dll
+C:\BankApi\BankApi\BankApi.DAL\obj\Debug\net5.0\BankApi.DAL.csproj.AssemblyReference.cache
