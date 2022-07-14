@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "thA07OM7sBJkNOBK4h74oIPgUSAtYrDXonWMRE3bzyO/YYFgo65pZT+ZUSxxdGaXSvXWIoVnHnGAEPqpJIo5rQ==",
+  "dgSpecHash": "Y6CNTCj72xB6S9Z2BBjHVKkHUHKwXq63lEOVFj7rcBDR8lKwPig0X6fwvY4/S7AGO/afE5dHk/978Ylnd3wfLA==",
   "success": true,
-  "projectFilePath": "C:\\BankApi\\BankApi\\Bank.UnitTest\\Bank.UnitTest.csproj",
+  "projectFilePath": "C:\\GItBankApi\\BankApi\\BankApi\\Bank.UnitTest\\Bank.UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arnel\\.nuget\\packages\\automapper\\6.2.2\\automapper.6.2.2.nupkg.sha512",
     "C:\\Users\\arnel\\.nuget\\packages\\castle.core\\4.2.0\\castle.core.4.2.0.nupkg.sha512",

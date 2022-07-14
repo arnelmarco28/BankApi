@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aMuATrnSqKhyEi9zM6ijqo3aTSlLN4RxbyI0ciVAxcBNiii+kaz2xR4quY9REtfuR4YhAgoRybtYyDTtHA8o4Q==",
+  "dgSpecHash": "8gzb2tK58+Vm+SwlNOsX/oLLrsHRPpCu25RzZSCFu9UbXYkBo+mxmUtHqZEB7Au0yHQfKrjhxNAfQS7B57/hfg==",
   "success": true,
-  "projectFilePath": "C:\\BankApi\\BankApi\\BankApi.Services\\BankApi.Services.csproj",
+  "projectFilePath": "C:\\GItBankApi\\BankApi\\BankApi\\BankApi.Services\\BankApi.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arnel\\.nuget\\packages\\automapper\\6.2.2\\automapper.6.2.2.nupkg.sha512",
     "C:\\Users\\arnel\\.nuget\\packages\\fluentvalidation\\7.3.4\\fluentvalidation.7.3.4.nupkg.sha512",

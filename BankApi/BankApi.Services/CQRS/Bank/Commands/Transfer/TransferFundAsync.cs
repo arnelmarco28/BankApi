@@ -48,11 +48,14 @@ namespace Bank.Services.Commands
                     var transaction = await context.Database.BeginTransactionAsync();
                     try
                     {                                                
-                            await context.Transfer.AddAsync(newTransFer);                            
-                            sourceAccount.InitialBalance = sourcebalance;                            
+                            await context.Transfer.AddAsync(newTransFer);
+                            //await context.SaveChangesAsync();
+                            sourceAccount.InitialBalance = sourcebalance;
+                            //await context.SaveChangesAsync();
                             destinationAccount.InitialBalance = destinationAccount.InitialBalance + request.TransferFundRequest.TransferAmount;
+                            Thread.Sleep(3000);
                             await context.SaveChangesAsync();                            
-                            await transaction.CommitAsync();
+                            await transaction.CommitAsync();                            
                             return new CommonResponse<TransferFundResponse>() { Data = new TransferFundResponse {TransferID= newTransFer.TransferID}, IsSuccess = true };
                         
                     } catch (Exception ex)

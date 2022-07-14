@@ -1,0 +1,65 @@
+2022-07-14 11:43:07.7883 | INFO | Application started. Press Ctrl+C to shut down. |  | Microsoft.Hosting.Lifetime | url:  | action: 
+2022-07-14 11:43:07.8211 | INFO | Hosting environment: Development |  | Microsoft.Hosting.Lifetime | url:  | action: 
+2022-07-14 11:43:07.8211 | INFO | Content root path: C:\GItBankApi\BankApi\BankApi\BankApi |  | Microsoft.Hosting.Lifetime | url:  | action: 
+2022-07-14 13:27:03.7288 | INFO | Application started. Press Ctrl+C to shut down. |  | Microsoft.Hosting.Lifetime | url:  | action: 
+2022-07-14 13:27:03.7678 | INFO | Hosting environment: Development |  | Microsoft.Hosting.Lifetime | url:  | action: 
+2022-07-14 13:27:03.7678 | INFO | Content root path: C:\GItBankApi\BankApi\BankApi\BankApi |  | Microsoft.Hosting.Lifetime | url:  | action: 
+2022-07-14 14:49:37.1467 | INFO | Application started. Press Ctrl+C to shut down. |  | Microsoft.Hosting.Lifetime | url:  | action: 
+2022-07-14 14:49:37.1650 | INFO | Hosting environment: Development |  | Microsoft.Hosting.Lifetime | url:  | action: 
+2022-07-14 14:49:37.1724 | INFO | Content root path: C:\GItBankApi\BankApi\BankApi\BankApi |  | Microsoft.Hosting.Lifetime | url:  | action: 
+2022-07-14 14:52:35.8051 | INFO | Application started. Press Ctrl+C to shut down. |  | Microsoft.Hosting.Lifetime | url:  | action: 
+2022-07-14 14:52:35.8600 | INFO | Hosting environment: Development |  | Microsoft.Hosting.Lifetime | url:  | action: 
+2022-07-14 14:52:35.8699 | INFO | Content root path: C:\GItBankApi\BankApi\BankApi\BankApi |  | Microsoft.Hosting.Lifetime | url:  | action: 
+2022-07-14 15:15:17.1371 | INFO | Application started. Press Ctrl+C to shut down. |  | Microsoft.Hosting.Lifetime | url:  | action: 
+2022-07-14 15:15:17.1702 | INFO | Hosting environment: Development |  | Microsoft.Hosting.Lifetime | url:  | action: 
+2022-07-14 15:15:17.1702 | INFO | Content root path: C:\GItBankApi\BankApi\BankApi\BankApi |  | Microsoft.Hosting.Lifetime | url:  | action: 
+2022-07-14 15:25:02.4706 | INFO | Application started. Press Ctrl+C to shut down. |  | Microsoft.Hosting.Lifetime | url:  | action: 
+2022-07-14 15:25:02.4980 | INFO | Hosting environment: Development |  | Microsoft.Hosting.Lifetime | url:  | action: 
+2022-07-14 15:25:02.4980 | INFO | Content root path: C:\GItBankApi\BankApi\BankApi\BankApi |  | Microsoft.Hosting.Lifetime | url:  | action: 
+2022-07-14 15:33:44.5519 | INFO | Application started. Press Ctrl+C to shut down. |  | Microsoft.Hosting.Lifetime | url:  | action: 
+2022-07-14 15:33:44.5926 | INFO | Hosting environment: Development |  | Microsoft.Hosting.Lifetime | url:  | action: 
+2022-07-14 15:33:44.5926 | INFO | Content root path: C:\GItBankApi\BankApi\BankApi\BankApi |  | Microsoft.Hosting.Lifetime | url:  | action: 
+2022-07-14 15:34:28.3979 | ERROR | Error in TransferFundAsync:    at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ThrowAggregateUpdateConcurrencyException(Int32 commandIndex, Int32 expectedRowsAffected, Int32 rowsAffected)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithoutPropagation(Int32 commandIndex, RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.Consume(RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at Bank.Services.Commands.TransferFundAsync.Handle(TransferFund request, CancellationToken cancellationToken) in C:\GItBankApi\BankApi\BankApi\BankApi.Services\CQRS\Bank\Commands\Transfer\TransferFundAsync.cs:line 61 |  | Bank.Services.Commands.TransferFundAsync | url: https://localhost/api/Bank/TransferFunds | action: TransferFunds
+2022-07-14 15:35:30.7573 | INFO | Application started. Press Ctrl+C to shut down. |  | Microsoft.Hosting.Lifetime | url:  | action: 
+2022-07-14 15:35:30.8091 | INFO | Hosting environment: Development |  | Microsoft.Hosting.Lifetime | url:  | action: 
+2022-07-14 15:35:30.8091 | INFO | Content root path: C:\GItBankApi\BankApi\BankApi\BankApi |  | Microsoft.Hosting.Lifetime | url:  | action: 
+2022-07-14 15:36:07.8586 | ERROR | Error in TransferFundAsync:    at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ThrowAggregateUpdateConcurrencyException(Int32 commandIndex, Int32 expectedRowsAffected, Int32 rowsAffected)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithoutPropagationAsync(Int32 commandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Bank.Services.Commands.TransferFundAsync.Handle(TransferFund request, CancellationToken cancellationToken) in C:\GItBankApi\BankApi\BankApi\BankApi.Services\CQRS\Bank\Commands\Transfer\TransferFundAsync.cs:line 57 |  | Bank.Services.Commands.TransferFundAsync | url: https://localhost/api/Bank/TransferFunds | action: TransferFunds
+2022-07-14 15:39:23.7056 | ERROR | Error in TransferFundAsync:    at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ThrowAggregateUpdateConcurrencyException(Int32 commandIndex, Int32 expectedRowsAffected, Int32 rowsAffected)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithoutPropagationAsync(Int32 commandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Bank.Services.Commands.TransferFundAsync.Handle(TransferFund request, CancellationToken cancellationToken) in C:\GItBankApi\BankApi\BankApi\BankApi.Services\CQRS\Bank\Commands\Transfer\TransferFundAsync.cs:line 57 |  | Bank.Services.Commands.TransferFundAsync | url: https://localhost/api/Bank/TransferFunds | action: TransferFunds

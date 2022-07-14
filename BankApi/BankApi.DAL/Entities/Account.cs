@@ -12,7 +12,8 @@ namespace Bank.DAL.Entities
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int AccountID { get; set; }        
-        public string  Username { get; set; }        
+        public string  Username { get; set; }
+        [ConcurrencyCheck]
         public decimal InitialBalance { get; set; }
     }
 }

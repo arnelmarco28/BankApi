@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\BankApi\\BankApi\\Bank.UnitTest\\Bank.UnitTest.csproj": {}
+    "C:\\GItBankApi\\BankApi\\BankApi\\Bank.UnitTest\\Bank.UnitTest.csproj": {}
   },
   "projects": {
-    "C:\\BankApi\\BankApi\\Bank.UnitTest\\Bank.UnitTest.csproj": {
+    "C:\\GItBankApi\\BankApi\\BankApi\\Bank.UnitTest\\Bank.UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BankApi\\BankApi\\Bank.UnitTest\\Bank.UnitTest.csproj",
+        "projectUniqueName": "C:\\GItBankApi\\BankApi\\BankApi\\Bank.UnitTest\\Bank.UnitTest.csproj",
         "projectName": "Bank.UnitTest",
-        "projectPath": "C:\\BankApi\\BankApi\\Bank.UnitTest\\Bank.UnitTest.csproj",
+        "projectPath": "C:\\GItBankApi\\BankApi\\BankApi\\Bank.UnitTest\\Bank.UnitTest.csproj",
         "packagesPath": "C:\\Users\\arnel\\.nuget\\packages\\",
-        "outputPath": "C:\\BankApi\\BankApi\\Bank.UnitTest\\obj\\",
+        "outputPath": "C:\\GItBankApi\\BankApi\\BankApi\\Bank.UnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\BankApi\\BankApi\\BankApi.Services\\BankApi.Services.csproj": {
-                "projectPath": "C:\\BankApi\\BankApi\\BankApi.Services\\BankApi.Services.csproj"
+              "C:\\GItBankApi\\BankApi\\BankApi\\BankApi.Services\\BankApi.Services.csproj": {
+                "projectPath": "C:\\GItBankApi\\BankApi\\BankApi\\BankApi.Services\\BankApi.Services.csproj"
               }
             }
           }
@@ -103,14 +103,14 @@
         }
       }
     },
-    "C:\\BankApi\\BankApi\\BankApi.DAL\\BankApi.DAL.csproj": {
+    "C:\\GItBankApi\\BankApi\\BankApi\\BankApi.DAL\\BankApi.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BankApi\\BankApi\\BankApi.DAL\\BankApi.DAL.csproj",
+        "projectUniqueName": "C:\\GItBankApi\\BankApi\\BankApi\\BankApi.DAL\\BankApi.DAL.csproj",
         "projectName": "BankApi.DAL",
-        "projectPath": "C:\\BankApi\\BankApi\\BankApi.DAL\\BankApi.DAL.csproj",
+        "projectPath": "C:\\GItBankApi\\BankApi\\BankApi\\BankApi.DAL\\BankApi.DAL.csproj",
         "packagesPath": "C:\\Users\\arnel\\.nuget\\packages\\",
-        "outputPath": "C:\\BankApi\\BankApi\\BankApi.DAL\\obj\\",
+        "outputPath": "C:\\GItBankApi\\BankApi\\BankApi\\BankApi.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -188,14 +188,14 @@
         }
       }
     },
-    "C:\\BankApi\\BankApi\\BankApi.Services\\BankApi.Services.csproj": {
+    "C:\\GItBankApi\\BankApi\\BankApi\\BankApi.Services\\BankApi.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BankApi\\BankApi\\BankApi.Services\\BankApi.Services.csproj",
+        "projectUniqueName": "C:\\GItBankApi\\BankApi\\BankApi\\BankApi.Services\\BankApi.Services.csproj",
         "projectName": "BankApi.Services",
-        "projectPath": "C:\\BankApi\\BankApi\\BankApi.Services\\BankApi.Services.csproj",
+        "projectPath": "C:\\GItBankApi\\BankApi\\BankApi\\BankApi.Services\\BankApi.Services.csproj",
         "packagesPath": "C:\\Users\\arnel\\.nuget\\packages\\",
-        "outputPath": "C:\\BankApi\\BankApi\\BankApi.Services\\obj\\",
+        "outputPath": "C:\\GItBankApi\\BankApi\\BankApi\\BankApi.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -217,8 +217,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\BankApi\\BankApi\\BankApi.DAL\\BankApi.DAL.csproj": {
-                "projectPath": "C:\\BankApi\\BankApi\\BankApi.DAL\\BankApi.DAL.csproj"
+              "C:\\GItBankApi\\BankApi\\BankApi\\BankApi.DAL\\BankApi.DAL.csproj": {
+                "projectPath": "C:\\GItBankApi\\BankApi\\BankApi\\BankApi.DAL\\BankApi.DAL.csproj"
               }
             }
           }

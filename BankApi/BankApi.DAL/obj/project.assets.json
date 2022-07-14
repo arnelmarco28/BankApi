@@ -5805,11 +5805,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\BankApi\\BankApi\\BankApi.DAL\\BankApi.DAL.csproj",
+      "projectUniqueName": "C:\\GItBankApi\\BankApi\\BankApi\\BankApi.DAL\\BankApi.DAL.csproj",
       "projectName": "BankApi.DAL",
-      "projectPath": "C:\\BankApi\\BankApi\\BankApi.DAL\\BankApi.DAL.csproj",
+      "projectPath": "C:\\GItBankApi\\BankApi\\BankApi\\BankApi.DAL\\BankApi.DAL.csproj",
       "packagesPath": "C:\\Users\\arnel\\.nuget\\packages\\",
-      "outputPath": "C:\\BankApi\\BankApi\\BankApi.DAL\\obj\\",
+      "outputPath": "C:\\GItBankApi\\BankApi\\BankApi\\BankApi.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
